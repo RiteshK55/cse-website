@@ -1,0 +1,19 @@
+body {
+  background: url(Background.png);
+  background-repeat:repeat-y;
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: Helvetica, Baskerville, "Palatino Linotype", Palatino,
+    "Century Schoolbook L", "Times New Roman", "serif";
+  width: inherit;
+  margin-left: -28rem;
+}
+
+ .normal-pages {
+   width: 100vw;
+   height: 100vh;
+ }
+.password {
+  color: white;
+}
